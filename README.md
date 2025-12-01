@@ -4,7 +4,7 @@
 
 ### 1.1 Bối cảnh và Thách thức
 
-Ngôn ngữ tự nhiên của con người là một hệ thống ký hiệu rời rạc, nhưng lại có khả năng truyền tải những ý nghĩa vô cùng phức tạp và đa sắc thái. Đối với máy tính, đây là một thách thức cốt lõi: làm thế nào để biểu diễn hệ thống ký hiệu này theo một cách có ý nghĩa về mặt tính toán? Việc phát triển các phương pháp biểu diễn số học—cụ thể là các vector—cho từ ngữ không chỉ là một bài toán kỹ thuật mà còn là một bước đi chiến lược, đặt nền móng cho hầu hết các ứng dụng **Xử lý Ngôn ngữ Tự nhiên (NLP)** hiện đại, từ dịch máy, trả lời câu hỏi cho đến các hệ thống đối thoại.
+Ngôn ngữ tự nhiên của con người là một hệ thống ký hiệu rời rạc, nhưng lại có khả năng truyền tải những ý nghĩa vô cùng phức tạp và đa sắc thái. Đối với máy tính, đây là một thách thức cốt lõi: làm thế nào để biểu diễn hệ thống ký hiệu này theo một cách có ý nghĩa về mặt tính toán? Việc phát triển các phương pháp biểu diễn số học, cụ thể là các vector cho từ ngữ không chỉ là một bài toán kỹ thuật mà còn là một bước đi chiến lược, đặt nền móng cho hầu hết các ứng dụng **Xử lý Ngôn ngữ Tự nhiên (NLP)** hiện đại, từ dịch máy, trả lời câu hỏi cho đến các hệ thống đối thoại.
 
 ### 1.2 Các Phương pháp Biểu diễn Truyền thống và Hạn chế của chúng
 
